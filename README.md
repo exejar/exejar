@@ -1,6 +1,10 @@
 ## Hi there, I'm Max! 👋
 
+---
+
 I'm a self-taught programmer from Los Angeles, California.
+
+---
 
 ### My Preferred Languages
 <img align="left" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png"/> 
@@ -15,6 +19,8 @@ I'm a self-taught programmer from Los Angeles, California.
 <img align="left" src="https://img.icons8.com/color/48/000000/webstorm.png"/>
 </br>
 </br>
+
+---
 
 [![Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=exejar&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
