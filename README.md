@@ -1,10 +1,10 @@
 <!--- Thanks to Scherso for the inspiration! https://github.com/Scherso/Scherso --->
 
-<h1 align="middle">
+<h2 align="middle">
 
    Hi there, I'm Max! 👋 
 
-</h1>
+</h2>
 
 <a href="https://discordapp.com/users/830161230337409074">
      <img
@@ -15,10 +15,10 @@
 
 <hr>
 
-<h2 align="middle">
+<h3 align="middle">
      I'm a self-taught programmer from Los Angeles, California. <br>
      Feel Free to add me on Discord
-</h2>
+</h3>
 
 <br />
 <br />
