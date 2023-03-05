@@ -1,7 +1,5 @@
 ## Hi there, I'm Max! 👋
 
----
-
 I'm a self-taught programmer from Los Angeles, California.
 
 ---
