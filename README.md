@@ -6,19 +6,21 @@
 
 </h3>
 
+<hr>
+
 <a href="https://discordapp.com/users/830161230337409074">
      <img
-          align="left" alt="Discord"
+          align="middle" alt="Discord"
           src="https://img.shields.io/badge/-Max%239876-5865F2?&style=flat-square&logo=discord&logoColor=white"
      />
 </a>
 
 <hr>
 
-<h3 align="middle">
+<h4 align="middle">
      I'm a self-taught programmer from Los Angeles, California. <br>
      Feel Free to add me on Discord
-</h3>
+</h4>
 
 <br />
 
