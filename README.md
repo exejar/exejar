@@ -10,8 +10,6 @@ I'm a self-taught programmer from Los Angeles, California.
 <img align="left" src="https://img.icons8.com/color/48/000000/css3.png"/> 
 <br />
 
-And I mainly use these IDEs to program:
-
 ### My Preferred IDEs
 <img align="left" src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/webstorm.png"/>
