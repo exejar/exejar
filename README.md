@@ -16,7 +16,7 @@
 <hr>
 
 <h4 align="left">
-     I'm Sam, and I'm a self-taught programmer from Los Angeles, California. <br>
+     I'm a self-taught programmer from Los Angeles, California. <br>
      Feel Free to add me on any of the socials linked
 </h4>
 
@@ -90,7 +90,6 @@
 
 <hr>
 
-<br />
 <br />
 
 ### Currently Working On
