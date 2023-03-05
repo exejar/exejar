@@ -17,7 +17,7 @@
 
 <h4 align="middle">
      I'm a self-taught programmer from Los Angeles, California. <br>
-     Feel Free to add me on any of the socials linked
+     Feel Free to add me on Discord
 </h4>
 
 <br />
