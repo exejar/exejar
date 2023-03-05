@@ -1,6 +1,6 @@
 <!--- Thanks to Scherso for the inspiration! https://github.com/Scherso/Scherso --->
 
-<h3 align="left">
+<h3 align="middle">
 
    Hi there, I'm Max! 👋 
 
