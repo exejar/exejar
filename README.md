@@ -90,8 +90,6 @@
 
 <hr>
 
-<br />
-
 ### Currently Working On
 
 <a href="https://github.com/Weave-MC">
