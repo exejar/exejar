@@ -1,10 +1,10 @@
 <!--- Thanks to Scherso for the inspiration! https://github.com/Scherso/Scherso --->
 
-<h2 align="middle">
+<h3 align="middle">
 
    Hi there, I'm Max! 👋 
 
-</h2>
+</h3>
 
 <a href="https://discordapp.com/users/830161230337409074">
      <img
