@@ -93,8 +93,8 @@
 
 <a href="https://github.com/Weave-MC">
      <img
-          align="left" alt="Gentoo Linux" width="25"
+          align="left" alt="Weave-MC" width="25"
           src="https://camo.githubusercontent.com/5333b72670356a8b9b27dd51ea6dfe498e193757fba20136f4d9b96f84d95f27/68747470733a2f2f7374617469632e77696b69612e6e6f636f6f6b69652e6e65742f6d696e6563726166745f67616d6570656469612f696d616765732f642f64372f4c6f6f6d5f253238532532395f4a45315f4245312e706e672f7265766973696f6e2f6c61746573743f63623d3230323130313136303732353136"
      />
-     Weave
+     Weave-MC
 </a>
