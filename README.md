@@ -16,7 +16,7 @@
 <hr>
 
 <h4 align="middle">
-     I'm a self-taught programmer from Los Angeles, California. <br>
+     I'm a self-taught programmer from Tampa, Florida. <br>
 <!--      Feel Free to add me on Discord -->
 </h4>
 
