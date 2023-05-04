@@ -94,7 +94,7 @@
 <a href="https://github.com/exejar/HyKo">
      <img
           align="left" alt="HyKo" width="25"
-          src="https://cdn1.iconfinder.com/data/icons/developer-3/512/developer-create-dev-code-coding-write-512.png"
+<!--           src="https://cdn1.iconfinder.com/data/icons/developer-3/512/developer-create-dev-code-coding-write-512.png" -->
      />
      HyKo
 </a>
