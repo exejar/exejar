@@ -91,6 +91,6 @@
 
 ### Currently Working On
 
-<a href="https://github.com/exejar/HyKo">
-     HyKo
+<a href="https://github.com/exejar/Seraph">
+     Seraph
 </a>
